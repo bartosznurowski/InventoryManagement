@@ -8,14 +8,15 @@ The administration panel allows to manage product distribution proccess such as 
 The form is dynamically updated with jQuery depend on the categories.
 
 ![Proj2 PurchaseListCut](https://github.com/bartosznurowski/InventoryManagement/assets/105807818/f01d8682-1be8-478a-a94b-7c1be19df70b)
+Approved purchases cannot be reversed.
 
 
+Issuing invoices:
+![Proj2 InvoiceAddCut](https://github.com/bartosznurowski/InventoryManagement/assets/105807818/1f18b4b2-680d-4597-a702-ea7081470751)
+The form is dynamically updated with jQuery depend on the categories.
+![Proj2 InvoiceListCut](https://github.com/bartosznurowski/InventoryManagement/assets/105807818/f2efa00b-f97b-4873-99de-f9f295b02f9f)
 
-
-issuing invoices:
-
-
-printing and downloading them:
+Printing and downloading them:
 ![Proj2 Print](https://github.com/bartosznurowski/InventoryManagement/assets/105807818/d837aac6-c29e-4e6d-a73d-677473d9e61d)
 
 and more.
