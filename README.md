@@ -4,13 +4,16 @@ The project was made using PHP Laravel framework with Javascript, jQuery AJAX an
 
 
 The administration panel allows to manage product distribution proccess such as purchase product from supplier:
-![Proj2 PurchaseForm](https://github.com/bartosznurowski/InventoryManagement/assets/105807818/18593363-e331-4ae3-9e46-c53f87567984)
-![Proj2 PurchaseList](https://github.com/bartosznurowski/InventoryManagement/assets/105807818/4e122a69-804a-439d-a160-e598d32c3f23)
+![Proj2 PurchaseFormCut](https://github.com/bartosznurowski/InventoryManagement/assets/105807818/ecca4ee9-7d52-40c8-8f9c-de9ee22c1257)
+The form is dynamically updated with jQuery depend on the categories.
+
+![Proj2 PurchaseListCut](https://github.com/bartosznurowski/InventoryManagement/assets/105807818/f01d8682-1be8-478a-a94b-7c1be19df70b)
+
+
 
 
 issuing invoices:
-![Proj2 InvoiceAdd](https://github.com/bartosznurowski/InventoryManagement/assets/105807818/d2ce17db-9556-41a6-b8a7-ee0e712b9726)
-![Proj2 InvoiceList](https://github.com/bartosznurowski/InventoryManagement/assets/105807818/9fddf44e-139e-4aab-a7b4-61f323c1f3bc)
+
 
 printing and downloading them:
 ![Proj2 Print](https://github.com/bartosznurowski/InventoryManagement/assets/105807818/d837aac6-c29e-4e6d-a73d-677473d9e61d)
