@@ -1,6 +1,6 @@
 # InventoryManagement
 Inventory Management app is based on the administration panel which include menu to perform specific actions associated with managing product distribution.
-The project was made using PHP Laravel framework with Javascript, jQuery AJAX and frontend template using Bootstrap library.
+The project was made using PHP Laravel framework with Javascript, jQuery AJAX and frontend template that is using Bootstrap library.
 
 
 The administration panel allows to manage product distribution proccess such as purchase product from supplier:
